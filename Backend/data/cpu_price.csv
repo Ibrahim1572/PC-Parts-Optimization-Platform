@@ -1,0 +1,232 @@
+cpu_name,price_usd
+"AMD Ryzen 9 5950X",380
+"Intel Core i9-12900KS",420
+"Intel Core i9-12900KF",365
+"Intel Core i9-12900K",375
+"AMD Ryzen 9 5900X",290
+"AMD Ryzen 9 3950X",250
+"Intel Core i9-12900",340
+"Intel Core i9-12900F",320
+"Intel Core i9-12900T",330
+"AMD Ryzen 9 5900",270
+"Intel Core i7-12700K",240
+"Intel Core i7-12700KF",225
+"AMD Ryzen 9 3900XT",200
+"AMD Ryzen 9 3900X",190
+"Intel Core i7-12700F",205
+"Intel Core i7-12700",210
+"AMD Ryzen 9 PRO 3900",180
+"AMD Ryzen 9 3900",175
+"AMD Ryzen 7 5800X",170
+"Intel Core i5-12600K",165
+"Intel Core i5-12600KF",155
+"AMD Ryzen 7 5700X",155
+"AMD Ryzen 7 5800",160
+"Intel Core i9-11900K @ 3.50GHz",230
+"AMD Ryzen 7 5800X3D",285
+"Intel Core i9-11900KF @ 3.50GHz",215
+"AMD Ryzen 7 PRO 5750G",165
+"Intel Core i7-11700K @ 3.60GHz",180
+"AMD Ryzen 7 5700G",145
+"Intel Core i7-11700KF @ 3.60GHz",170
+"AMD Ryzen 7 3800XT",140
+"Intel Core i9-11900F @ 2.50GHz",190
+"Intel Core i9-10900K @ 3.70GHz",200
+"Intel Core i9-10900KF @ 3.70GHz",190
+"AMD Ryzen 7 3800X",130
+"Intel Core i9-11900 @ 2.50GHz",195
+"Intel Core i9-10850K @ 3.60GHz",185
+"AMD Ryzen 7 PRO 3700",125
+"AMD Ryzen 7 3700X",120
+"Intel Core i7-12700T",210
+"AMD Ryzen 7 5700GE",140
+"AMD Ryzen 7 PRO 5750GE",150
+"AMD Ryzen 5 5600X",135
+"Intel Core i9-10910 @ 3.60GHz",180
+"Intel Core i7-11700F @ 2.50GHz",140
+"Intel Core i5-12600",150
+"AMD Ryzen 5 5600",120
+"Intel Core i9-10900F @ 2.80GHz",175
+"AMD Ryzen 7 PRO 4700G",130
+"AMD Ryzen 5 PRO 5650G",110
+"Intel Core i7-11700 @ 2.50GHz",145
+"AMD Ryzen 7 PRO 4750G",135
+"Intel Core i9-10900 @ 2.80GHz",180
+"AMD Ryzen 7 4700GE",120
+"Intel Core i5-12500",130
+"Intel Core i9-11900T @ 1.50GHz",180
+"AMD Ryzen 7 4700G",125
+"AMD Ryzen 5 5500",95
+"AMD Ryzen 5 5600G",115
+"Intel Core i5-11600K @ 3.90GHz",105
+"Intel Core i5-11600KF @ 3.90GHz",100
+"Intel Core i5-12400F",110
+"Intel Core i5-12400",115
+"Intel Core i9-9900KS @ 4.00GHz",190
+"Intel Core i7-10700K @ 3.80GHz",150
+"Intel Core i7-10700KF @ 3.80GHz",140
+"AMD Ryzen 5 5600GE",110
+"AMD Ryzen 5 3600XT",95
+"AMD Ryzen 5 PRO 5650GE",105
+"Intel Core i9-9900K @ 3.60GHz",175
+"Intel Core i9-9900KF @ 3.60GHz",165
+"AMD Ryzen 7 PRO 4750GE",125
+"Intel Core i5-11600 @ 2.80GHz",100
+"AMD Ryzen 5 3600X",90
+"Intel Core i5-12600T",145
+"AMD Ryzen 5 PRO 3600",85
+"AMD Ryzen 5 3600",80
+"Intel Core i5-12500T",125
+"Intel Core i5-11500 @ 2.70GHz",95
+"AMD Ryzen 7 2700X",85
+"AMD Ryzen 7 PRO 2700X",85
+"Intel Core i5-11400F @ 2.60GHz",95
+"Intel Core i5-11400 @ 2.60GHz",100
+"Intel Core i7-10700F @ 2.90GHz",125
+"Intel Core i7-10700 @ 2.90GHz",130
+"Intel Core i9-9900 @ 3.10GHz",160
+"AMD Ryzen 5 4500",80
+"AMD Ryzen 5 PRO 4650G",95
+"AMD Ryzen 5 PRO 4650GE",90
+"AMD Ryzen 5 4600GE",85
+"AMD Ryzen 7 2700",75
+"AMD Ryzen 5 4600G",85
+"Intel Core i7-11700T @ 1.40GHz",150
+"Intel Core i5-11600T @ 1.70GHz",100
+"Intel Core i9-10900T @ 1.90GHz",170
+"AMD Ryzen 7 PRO 2700",80
+"Intel Core i3-12300",95
+"AMD Ryzen 7 2700E",70
+"Intel Core i5-10600KF @ 4.10GHz",95
+"Intel Core i7-9700K @ 3.60GHz",120
+"Intel Core i7-8086K @ 4.00GHz",150
+"Intel Core i5-10600K @ 4.10GHz",100
+"Intel Core i3-12100",85
+"Intel Core i7-9700KF @ 3.60GHz",110
+"AMD Ryzen 5 2600X",65
+"AMD Ryzen 3 PRO 5350G",85
+"Intel Core i9-9900T @ 2.10GHz",165
+"Intel Core i5-10600 @ 3.30GHz",95
+"AMD Ryzen 3 5300GE",75
+"Intel Core i5-11500T @ 1.50GHz",95
+"AMD Ryzen 3 PRO 5350GE",80
+"Intel Core i7-9700F @ 3.00GHz",105
+"Intel Core i7-9700 @ 3.00GHz",110
+"AMD Ryzen 5 3500X",75
+"AMD Ryzen 5 PRO 2600",60
+"AMD Ryzen 5 2600",55
+"AMD Ryzen 3 5300G",80
+"Intel Core i7-10700T @ 2.00GHz",130
+"Intel Core i5-11400T @ 1.30GHz",95
+"Intel Core i5-10500 @ 3.10GHz",90
+"AMD Ryzen 5 3500",70
+"Intel Core i3-12100T",85
+"AMD Ryzen 3 3300X",75
+"Intel Core i5-10400F @ 2.90GHz",85
+"Intel Core i5-10400 @ 2.90GHz",90
+"Intel Core i7-9700E @ 2.60GHz",120
+"Intel Core i5-10505 @ 3.20GHz",90
+"AMD Ryzen 3 3100",65
+"Intel Core i5-10600T @ 2.40GHz",100
+"AMD Ryzen 3 4300GE",60
+"AMD Ryzen 3 PRO 4350GE",65
+"Intel Core i5-9600KF @ 3.70GHz",85
+"AMD Ryzen 3 PRO 4350G",70
+"Intel Core i5-9600K @ 3.70GHz",90
+"AMD Ryzen 3 4300G",65
+"Intel Core i7-9700T @ 2.00GHz",115
+"Intel Core i7-8700T @ 2.40GHz",95
+"Intel Core i5-9600 @ 3.10GHz",85
+"Intel Core i5-10500T @ 2.30GHz",90
+"Intel Core i5-9500F @ 3.00GHz",75
+"Intel Core i3-10325 @ 3.90GHz",65
+"Intel Core i3-10320 @ 3.80GHz",60
+"Intel Core i5-10400T @ 2.00GHz",85
+"Intel Core i5-8600 @ 3.10GHz",80
+"Intel Core i5-9500 @ 3.00GHz",80
+"Intel Core i3-10305 @ 3.80GHz",60
+"Intel Core i5-8500 @ 3.00GHz",75
+"AMD Ryzen 5 PRO 3350G",85
+"Intel Core i5-9400 @ 2.90GHz",70
+"AMD Ryzen 5 2500X",65
+"AMD Ryzen 5 3400G",75
+"AMD Ryzen 5 PRO 3400G",80
+"Intel Core i3-10300 @ 3.70GHz",55
+"Intel Core i3-10105F @ 3.70GHz",50
+"AMD Ryzen 5 3350G",80
+"AMD Ryzen 5 3400GE",70
+"Intel Core i3-10105 @ 3.70GHz",55
+"Intel Core i3-10100F @ 3.60GHz",45
+"Intel Core i3-10100 @ 3.60GHz",50
+"AMD Ryzen 5 2400G",55
+"Intel Core i5-9600T @ 2.30GHz",90
+"AMD Ryzen 5 PRO 2400G",60
+"AMD Ryzen 5 PRO 3400GE",75
+"Intel Core i5-9500T @ 2.20GHz",80
+"Intel Core i5-8600T @ 2.30GHz",85
+"Intel Core i3-10305T @ 3.00GHz",55
+"AMD Ryzen 5 2400GE",50
+"Intel Core i3-10300T @ 3.00GHz",55
+"Intel Core i3-10105T @ 3.00GHz",50
+"Intel Core i5-9400T @ 1.80GHz",75
+"AMD Athlon Gold PRO 3150G",45
+"Intel Core i5-8500T @ 2.10GHz",75
+"AMD Ryzen 3 2300X",45
+"AMD Ryzen 5 PRO 2400GE",55
+"Intel Core i5-8400T @ 1.70GHz",65
+"Intel Core i3-9320 @ 3.70GHz",50
+"Intel Core i3-9350KF @ 4.00GHz",55
+"AMD Ryzen 3 3200GE",45
+"Intel Core i3-9300 @ 3.70GHz",45
+"AMD Ryzen 3 3200G",50
+"AMD Athlon Gold PRO 3150GE",40
+"AMD Ryzen 3 PRO 3200G",55
+"AMD Athlon Gold 3150G",45
+"AMD Ryzen 3 2200G",40
+"Intel Core i3-9100F @ 3.60GHz",40
+"AMD Ryzen 3 PRO 2200G",45
+"Intel Core i3-9100 @ 3.60GHz",45
+"AMD Ryzen 3 2200GE",35
+"Intel Core i3-9300T @ 3.20GHz",45
+"Intel Core i3-8300 @ 3.70GHz",45
+"AMD Ryzen 3 PRO 2200GE",40
+"Intel Core i3-8300T @ 3.20GHz",45
+"Intel Core i3-9100T @ 3.10GHz",40
+"Intel Core i3-8100T @ 3.10GHz",35
+"AMD Athlon Silver PRO 3125GE",30
+"AMD Athlon 240GE",25
+"Intel Pentium Gold G6605 @ 4.30GHz",45
+"AMD Athlon 3000G",35
+"AMD Athlon PRO 300GE",30
+"Intel Pentium Gold G6600 @ 4.20GHz",40
+"Intel Pentium Gold G6505 @ 4.20GHz",35
+"AMD Athlon 300GE",25
+"Intel Pentium Gold G6405 @ 4.10GHz",35
+"AMD Athlon 320GE",30
+"AMD Ryzen 3 PRO 2100GE",40
+"Intel Pentium Gold G5600F @ 3.90GHz",35
+"Intel Pentium Gold G6500 @ 4.10GHz",35
+"AMD Athlon PRO 200GE",25
+"AMD Athlon 200GE",25
+"Intel Pentium Gold G6400 @ 4.00GHz",30
+"Intel Pentium Gold G5620 @ 4.00GHz",35
+"Intel Pentium Gold G6500T @ 3.50GHz",35
+"Intel Pentium Gold G5500 @ 3.80GHz",30
+"Intel Pentium Gold G5600 @ 3.90GHz",35
+"Intel Pentium Gold G6405T @ 3.50GHz",35
+"Intel Pentium Gold G5400 @ 3.70GHz",30
+"Intel Pentium Gold G5420 @ 3.80GHz",30
+"Intel Pentium Gold G6400T @ 3.40GHz",30
+"Intel Pentium Gold G5420T @ 3.20GHz",30
+"Intel Pentium Gold G5500T @ 3.20GHz",30
+"Intel Celeron G5925 @ 3.60GHz",25
+"Intel Celeron G5905 @ 3.50GHz",25
+"Intel Celeron G5900 @ 3.40GHz",20
+"Intel Celeron G5900T @ 3.20GHz",20
+"Intel Celeron G4930 @ 3.20GHz",20
+"Intel Celeron G5920 @ 3.50GHz",25
+"Intel Celeron G4900 @ 3.10GHz",15
+"Intel Celeron G4920 @ 3.20GHz",18
+"Intel Celeron G4900T @ 2.90GHz",15
+"Intel Celeron G5905T @ 3.30GHz",25
+"AMD A6-9500E",10

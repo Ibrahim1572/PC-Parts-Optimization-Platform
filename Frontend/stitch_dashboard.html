@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>PC BUILD OPTIMIZER | SYSTEM OPTIMIZATION ENGINE</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    "colors": {
+                        "surface-container": "#1f1f25",
+                        "primary-container": "#2792ff",
+                        "on-surface-variant": "#c0c7d6",
+                        "tertiary-container": "#e37103",
+                        "error": "#ffb4ab",
+                        "primary-fixed": "#d4e3ff",
+                        "secondary-fixed-dim": "#aac8f9",
+                        "primary": "#a5c8ff",
+                        "surface-container-highest": "#35343a",
+                        "surface-tint": "#a5c8ff",
+                        "on-tertiary-fixed": "#311300",
+                        "surface-container-low": "#1b1b20",
+                        "on-secondary-fixed-variant": "#284871",
+                        "primary-fixed-dim": "#a5c8ff",
+                        "surface-container-high": "#2a292f",
+                        "on-background": "#e4e1e9",
+                        "inverse-surface": "#e4e1e9",
+                        "on-secondary": "#0c3159",
+                        "outline-variant": "#404753",
+                        "on-primary-fixed-variant": "#004786",
+                        "on-error": "#690005",
+                        "secondary": "#aac8f9",
+                        "secondary-container": "#2b4a74",
+                        "on-primary-fixed": "#001c3a",
+                        "inverse-primary": "#005faf",
+                        "on-secondary-fixed": "#001c3a",
+                        "tertiary-fixed": "#ffdbc7",
+                        "outline": "#8a919f",
+                        "on-tertiary-container": "#471e00",
+                        "on-error-container": "#ffdad6",
+                        "error-container": "#93000a",
+                        "on-surface": "#e4e1e9",
+                        "tertiary-fixed-dim": "#ffb688",
+                        "on-tertiary": "#512400",
+                        "surface-bright": "#39383e",
+                        "secondary-fixed": "#d4e3ff",
+                        "on-primary": "#00315f",
+                        "surface-dim": "#131318",
+                        "tertiary": "#ffb688",
+                        "surface-variant": "#35343a",
+                        "surface": "#131318",
+                        "surface-container-lowest": "#0e0e13",
+                        "inverse-on-surface": "#303036",
+                        "on-tertiary-fixed-variant": "#733600",
+                        "on-secondary-container": "#9cbaea",
+                        "on-primary-container": "#002a53",
+                        "background": "#131318"
+                    },
+                    "borderRadius": {
+                        "none": "0",
+                        "DEFAULT": "0",
+                        "lg": "0",
+                        "xl": "0",
+                        "full": "0"
+                    },
+                    "fontFamily": {
+                        "headline": ["Space Grotesk"],
+                        "body": ["Space Grotesk"],
+                        "label": ["Space Grotesk"]
+                    }
+                }
+            }
+        }
+    </script>
+<style>
+        body {
+            background-color: #131318;
+            background-image: radial-gradient(#2792ff15 0.5px, transparent 0.5px);
+            background-size: 24px 24px;
+            font-family: 'Space Grotesk', monospace;
+        }
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+        input[type="range"] {
+            -webkit-appearance: none;
+            background: transparent;
+        }
+        input[type="range"]::-webkit-slider-runnable-track {
+            background: #1b1b20;
+            height: 4px;
+        }
+        input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            height: 16px;
+            width: 16px;
+            background: #a5c8ff;
+            margin-top: -6px;
+            border-radius: 0;
+        }
+        .glow-rank-1 {
+            box-shadow: 0 0 20px rgba(39, 146, 255, 0.15);
+            background: radial-gradient(circle at top right, rgba(39, 146, 255, 0.05) 0%, transparent 70%);
+        }
+    </style>
+</head>
+<body class="text-on-background min-h-screen">
+<!-- TopNavBar -->
+<nav class="fixed top-0 w-full z-50 flex justify-between items-center px-6 py-3 bg-slate-950/80 backdrop-blur-xl border-b-0">
+<div class="flex items-center gap-8">
+<div class="flex flex-col">
+<span class="text-xl font-black text-blue-400 tracking-widest font-mono uppercase">PC BUILD OPTIMIZER</span>
+<span class="text-[10px] text-slate-500 font-mono tracking-[0.2em] mt-[-4px]">v1.4 // SYSTEM OPTIMIZATION ENGINE</span>
+</div>
+<div class="hidden md:flex gap-6">
+<a class="font-mono uppercase tracking-tighter text-sm text-blue-400 border-b-2 border-blue-400 pb-1 hover:text-blue-300 transition-colors duration-150" href="#">COMPONENTS</a>
+<a class="font-mono uppercase tracking-tighter text-sm text-slate-500 hover:text-blue-300 transition-colors duration-150" href="#">BUILDS</a>
+<a class="font-mono uppercase tracking-tighter text-sm text-slate-500 hover:text-blue-300 transition-colors duration-150" href="#">BENCHMARKS</a>
+</div>
+</div>
+<div class="flex items-center gap-4">
+<span class="material-symbols-outlined text-blue-400 cursor-pointer scale-95 active:duration-75">settings</span>
+<span class="material-symbols-outlined text-blue-400 cursor-pointer scale-95 active:duration-75">terminal</span>
+</div>
+</nav>
+<!-- SideNavBar -->
+<aside class="fixed left-0 top-0 h-full flex flex-col pt-16 bg-slate-950 w-20 border-r-0 z-40 hidden md:flex">
+<div class="flex flex-col items-center py-6 gap-8">
+<div class="flex flex-col items-center group cursor-pointer text-blue-400 bg-blue-400/10 border-r-2 border-blue-400 w-full py-3">
+<span class="material-symbols-outlined mb-1">dashboard</span>
+<span class="font-mono text-[8px] uppercase">DASHBOARD</span>
+</div>
+<div class="flex flex-col items-center group cursor-pointer text-slate-600 hover:bg-slate-900 hover:text-slate-300 w-full py-3">
+<span class="material-symbols-outlined mb-1">memory</span>
+<span class="font-mono text-[8px] uppercase">HARDWARE</span>
+</div>
+<div class="flex flex-col items-center group cursor-pointer text-slate-600 hover:bg-slate-900 hover:text-slate-300 w-full py-3">
+<span class="material-symbols-outlined mb-1">analytics</span>
+<span class="font-mono text-[8px] uppercase">TELEMETRY</span>
+</div>
+<div class="flex flex-col items-center group cursor-pointer text-slate-600 hover:bg-slate-900 hover:text-slate-300 w-full py-3">
+<span class="material-symbols-outlined mb-1">inventory_2</span>
+<span class="font-mono text-[8px] uppercase">ARCHIVE</span>
+</div>
+<div class="flex flex-col items-center group cursor-pointer text-slate-600 hover:bg-slate-900 hover:text-slate-300 w-full py-3 mt-auto">
+<span class="material-symbols-outlined mb-1">settings_input_component</span>
+<span class="font-mono text-[8px] uppercase">SYSTEM</span>
+</div>
+</div>
+</aside>
+<main class="md:pl-20 pt-20 px-6 pb-12 max-w-7xl mx-auto">
+<!-- Control Panel Section -->
+<section class="mt-8 mb-12 bg-surface-container-low p-8 border-l-4 border-primary">
+<div class="flex justify-between items-start mb-10">
+<div>
+<h2 class="text-on-surface-variant font-mono text-xs mb-1 tracking-widest uppercase">CONFIGURATION_PARAMETERS</h2>
+<p class="text-primary font-bold text-lg tracking-tight">ENGINE OVERRIDE ACTIVE</p>
+</div>
+<div class="text-right">
+<span class="text-[10px] text-outline font-mono uppercase tracking-widest">COORD_REF: 001-ALPHA</span>
+</div>
+</div>
+<div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
+<!-- Budget Slider -->
+<div class="space-y-4">
+<label class="block text-[10px] text-on-surface-variant font-mono tracking-widest uppercase">TARGET_BUDGET</label>
+<div class="flex items-baseline gap-2">
+<span class="text-4xl font-bold text-primary font-mono">$</span>
+<span class="text-6xl font-black text-primary font-mono tracking-tighter">2,450</span>
+</div>
+<input class="w-full mt-4" max="5000" min="500" type="range" value="2450"/>
+<div class="flex justify-between text-[10px] font-mono text-outline">
+<span>MIN: $500</span>
+<span>MAX: $5000</span>
+</div>
+</div>
+<!-- Use-case Toggles -->
+<div class="space-y-4">
+<label class="block text-[10px] text-on-surface-variant font-mono tracking-widest uppercase">WORKLOAD_PRIORITY</label>
+<div class="flex flex-col gap-2">
+<button class="bg-primary text-on-primary font-bold py-2 px-4 text-xs tracking-widest text-left flex justify-between items-center">
+                            1080P GAMING <span class="material-symbols-outlined text-sm">square</span>
+</button>
+<button class="bg-surface-container-high text-on-surface font-bold py-2 px-4 text-xs tracking-widest text-left flex justify-between items-center opacity-50 hover:opacity-100 transition-opacity">
+                            1440P GAMING <span class="material-symbols-outlined text-sm">square</span>
+</button>
+<button class="bg-surface-container-high text-on-surface font-bold py-2 px-4 text-xs tracking-widest text-left flex justify-between items-center opacity-50 hover:opacity-100 transition-opacity">
+                            4K GAMING <span class="material-symbols-outlined text-sm">square</span>
+</button>
+<button class="bg-surface-container-high text-on-surface font-bold py-2 px-4 text-xs tracking-widest text-left flex justify-between items-center opacity-50 hover:opacity-100 transition-opacity">
+                            COMPUTE/ML <span class="material-symbols-outlined text-sm">square</span>
+</button>
+<button class="bg-surface-container-high text-on-surface font-bold py-2 px-4 text-xs tracking-widest text-left flex justify-between items-center opacity-50 hover:opacity-100 transition-opacity">
+                            GENERAL USE <span class="material-symbols-outlined text-sm">square</span>
+</button>
+</div>
+</div>
+<!-- Split Slider -->
+<div class="space-y-4">
+<label class="block text-[10px] text-on-surface-variant font-mono tracking-widest uppercase">HARDWARE_BIAS_RATIO</label>
+<div class="flex justify-between text-[10px] font-mono text-outline mb-2">
+<span>GPU (65%)</span>
+<span>CPU (35%)</span>
+</div>
+<div class="h-8 w-full bg-surface-container-lowest flex">
+<div class="h-full bg-primary" style="width: 65%;"></div>
+<div class="h-full bg-surface-container-highest" style="width: 35%;"></div>
+</div>
+<input class="w-full" max="100" min="0" type="range" value="65"/>
+<p class="text-[10px] text-outline font-mono italic leading-relaxed">
+                        // BIASING TOWARD GPU FOR HIGH-REFRESH RATE PERFORMANCE IN E-SPORTS TITLES.
+                    </p>
+</div>
+</div>
+<div class="mt-12 flex justify-center">
+<button class="bg-primary-container text-on-primary-container font-black py-5 px-16 text-sm tracking-[0.3em] uppercase hover:bg-primary transition-all active:scale-95 shadow-[0_0_20px_rgba(39,146,255,0.3)]">
+                    OPTIMIZE BUILD
+                </button>
+</div>
+</section>
+<!-- Results Section -->
+<div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+<!-- Card #1 -->
+<div class="bg-surface-container border border-primary-container glow-rank-1 relative flex flex-col">
+<div class="absolute top-0 left-0 bg-primary-container text-on-primary-container px-3 py-1 font-bold text-[10px] tracking-widest">RANK_01</div>
+<div class="absolute top-0 right-0 p-3 text-[10px] text-outline font-mono">ID: X-992</div>
+<div class="p-6 pt-12 flex-1">
+<!-- GPU Section -->
+<div class="mb-8 border-b border-outline-variant/20 pb-6">
+<span class="text-[8px] text-primary tracking-widest font-bold uppercase mb-2 block">GPU_MODULE</span>
+<h3 class="text-xl font-black mb-4">RTX 4080 SUPER</h3>
+<div class="flex flex-wrap gap-2 mb-4">
+<span class="text-[9px] border border-primary text-primary px-2 py-0.5 font-mono">16GB VRAM</span>
+<span class="text-[9px] border border-outline-variant text-outline px-2 py-0.5 font-mono">320W TDP</span>
+</div>
+<div class="space-y-1">
+<div class="flex justify-between text-[8px] font-mono uppercase text-on-surface-variant"><span>PERF_SCORE</span><span>98.2</span></div>
+<div class="h-1 w-full bg-surface-container-highest"><div class="h-full bg-primary" style="width: 98%;"></div></div>
+</div>
+</div>
+<!-- CPU Section -->
+<div>
+<span class="text-[8px] text-primary tracking-widest font-bold uppercase mb-2 block">CPU_CORE</span>
+<h3 class="text-xl font-black mb-4">RYZEN 7 7800X3D</h3>
+<div class="flex flex-wrap gap-2 mb-4">
+<span class="text-[9px] border border-primary text-primary px-2 py-0.5 font-mono">8 CORES</span>
+<span class="text-[9px] border border-outline-variant text-outline px-2 py-0.5 font-mono">AM5</span>
+</div>
+<div class="space-y-1">
+<div class="flex justify-between text-[8px] font-mono uppercase text-on-surface-variant"><span>STABILITY</span><span>100.0</span></div>
+<div class="h-1 w-full bg-surface-container-highest"><div class="h-full bg-primary" style="width: 100%;"></div></div>
+</div>
+</div>
+</div>
+<div class="bg-surface-container-low p-4 mt-auto">
+<span class="text-[8px] text-outline font-mono uppercase block mb-1">OPTIMIZATION_LOG:</span>
+<p class="text-[10px] text-primary-fixed leading-tight font-mono uppercase">SYNERGY DETECTED: CACHE STACKING ALIGNS WITH WORKLOAD_01.</p>
+</div>
+</div>
+<!-- Card #2 -->
+<div class="bg-surface-container border border-outline-variant relative flex flex-col">
+<div class="absolute top-0 left-0 bg-surface-container-high text-on-surface px-3 py-1 font-bold text-[10px] tracking-widest uppercase">RANK_02</div>
+<div class="absolute top-0 right-0 p-3 text-[10px] text-outline font-mono">ID: X-881</div>
+<div class="p-6 pt-12 flex-1">
+<div class="mb-8 border-b border-outline-variant/20 pb-6">
+<span class="text-[8px] text-on-surface-variant tracking-widest font-bold uppercase mb-2 block">GPU_MODULE</span>
+<h3 class="text-xl font-black mb-4">RX 7900 XTX</h3>
+<div class="flex flex-wrap gap-2 mb-4">
+<span class="text-[9px] border border-outline-variant text-outline px-2 py-0.5 font-mono">24GB VRAM</span>
+<span class="text-[9px] border border-outline-variant text-outline px-2 py-0.5 font-mono">355W TDP</span>
+</div>
+<div class="space-y-1">
+<div class="flex justify-between text-[8px] font-mono uppercase text-on-surface-variant"><span>PERF_SCORE</span><span>96.4</span></div>
+<div class="h-1 w-full bg-surface-container-highest"><div class="h-full bg-primary/60" style="width: 96%;"></div></div>
+</div>
+</div>
+<div>
+<span class="text-[8px] text-on-surface-variant tracking-widest font-bold uppercase mb-2 block">CPU_CORE</span>
+<h3 class="text-xl font-black mb-4">CORE I7-14700K</h3>
+<div class="flex flex-wrap gap-2 mb-4">
+<span class="text-[9px] border border-outline-variant text-outline px-2 py-0.5 font-mono">20 CORES</span>
+<span class="text-[9px] border border-outline-variant text-outline px-2 py-0.5 font-mono">LGA1700</span>
+</div>
+<div class="space-y-1">
+<div class="flex justify-between text-[8px] font-mono uppercase text-on-surface-variant"><span>STABILITY</span><span>92.5</span></div>
+<div class="h-1 w-full bg-surface-container-highest"><div class="h-full bg-primary/60" style="width: 92%;"></div></div>
+</div>
+</div>
+</div>
+<div class="bg-surface-container-low p-4 mt-auto">
+<span class="text-[8px] text-outline font-mono uppercase block mb-1">OPTIMIZATION_LOG:</span>
+<p class="text-[10px] text-on-surface-variant leading-tight font-mono uppercase">HIGH VRAM DETECTED. OPTIMAL FOR RAW TEXTURE THROUGHPUT.</p>
+</div>
+</div>
+<!-- Card #3 -->
+<div class="bg-surface-container border border-outline-variant relative flex flex-col">
+<div class="absolute top-0 left-0 bg-surface-container-high text-on-surface px-3 py-1 font-bold text-[10px] tracking-widest uppercase">RANK_03</div>
+<div class="absolute top-0 right-0 p-3 text-[10px] text-outline font-mono">ID: X-774</div>
+<div class="p-6 pt-12 flex-1">
+<div class="mb-8 border-b border-outline-variant/20 pb-6">
+<span class="text-[8px] text-on-surface-variant tracking-widest font-bold uppercase mb-2 block">GPU_MODULE</span>
+<h3 class="text-xl font-black mb-4">RTX 4070 TI SUPER</h3>
+<div class="flex flex-wrap gap-2 mb-4">
+<span class="text-[9px] border border-outline-variant text-outline px-2 py-0.5 font-mono">16GB VRAM</span>
+<span class="text-[9px] border border-outline-variant text-outline px-2 py-0.5 font-mono">285W TDP</span>
+</div>
+<div class="space-y-1">
+<div class="flex justify-between text-[8px] font-mono uppercase text-on-surface-variant"><span>PERF_SCORE</span><span>88.1</span></div>
+<div class="h-1 w-full bg-surface-container-highest"><div class="h-full bg-primary/40" style="width: 88%;"></div></div>
+</div>
+</div>
+<div>
+<span class="text-[8px] text-on-surface-variant tracking-widest font-bold uppercase mb-2 block">CPU_CORE</span>
+<h3 class="text-xl font-black mb-4">RYZEN 9 7900X</h3>
+<div class="flex flex-wrap gap-2 mb-4">
+<span class="text-[9px] border border-outline-variant text-outline px-2 py-0.5 font-mono">12 CORES</span>
+<span class="text-[9px] border border-outline-variant text-outline px-2 py-0.5 font-mono">AM5</span>
+</div>
+<div class="space-y-1">
+<div class="flex justify-between text-[8px] font-mono uppercase text-on-surface-variant"><span>STABILITY</span><span>95.0</span></div>
+<div class="h-1 w-full bg-surface-container-highest"><div class="h-full bg-primary/40" style="width: 95%;"></div></div>
+</div>
+</div>
+</div>
+<div class="bg-surface-container-low p-4 mt-auto">
+<span class="text-[8px] text-outline font-mono uppercase block mb-1">OPTIMIZATION_LOG:</span>
+<p class="text-[10px] text-on-surface-variant leading-tight font-mono uppercase">BALANCED MULTI-THREADING FOR PRODUCTION HYBRID TASKS.</p>
+</div>
+</div>
+</div>
+<!-- System Stats Footer -->
+<footer class="mt-16 pt-8 border-t border-outline-variant/20 grid grid-cols-2 md:grid-cols-4 gap-8">
+<div class="flex flex-col">
+<span class="text-[9px] text-outline font-mono tracking-widest uppercase">KERNEL_STATUS</span>
+<span class="text-xs font-bold text-primary uppercase">CONNECTED_ENCRYPTED</span>
+</div>
+<div class="flex flex-col">
+<span class="text-[9px] text-outline font-mono tracking-widest uppercase">LATENCY</span>
+<span class="text-xs font-bold text-on-surface uppercase">0.0004 MS</span>
+</div>
+<div class="flex flex-col">
+<span class="text-[9px] text-outline font-mono tracking-widest uppercase">DB_VERSION</span>
+<span class="text-xs font-bold text-on-surface uppercase">COMP_LIB_v442</span>
+</div>
+<div class="flex flex-col">
+<span class="text-[9px] text-outline font-mono tracking-widest uppercase">REGION</span>
+<span class="text-xs font-bold text-on-surface uppercase">US_WEST_02</span>
+</div>
+</footer>
+</main>
+</body></html>

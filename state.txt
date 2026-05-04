@@ -1,0 +1,6 @@
+Version: mvp backend + frontend only containerization/deployment pending
+containerization/deployment are intended to be done here
+
+status: works as intended 
+
+error: no logical or synatx errors

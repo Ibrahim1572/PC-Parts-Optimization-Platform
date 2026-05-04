@@ -1,0 +1,10 @@
+queries
+
+GPU: select * from gpus where product_name not ilike '%Mobile%' and release_year > 2018 and igp='false' and product_name similar to '(GeForce RTX|GeForce GTX|TITAN|Radeon RX|Radeon VII|Intel Arc)%' ;
+
+CPU: select * from cpus where category ='Desktop' and test_date in ('2022', '2021', '2020', '2019', '2018') and socket in ('AM4', 'FCLGA1151-2', 'FCLGA1700', 'LGA 1700', 'FCLGA1200')
+
+To run :
+frontend: npm run dev
+
+backend: uvicorn main:app --reload --port 8000
