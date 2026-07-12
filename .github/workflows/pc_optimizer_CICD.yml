@@ -21,13 +21,13 @@ jobs:
               with:
                 node-version: 20
 
-            - name: Fix permissions
-              working-directory: ./Frontend
-              run: chmod -R +x node_modules/.bin || true
+            # - name: Fix permissions
+            #   working-directory: ./Frontend
+            #   run: chmod -R +x node_modules/.bin || true
             
             - name: Install Dependencies
               working-directory: ./Frontend
-              run: npm install
+              run: npm ci
 
             - name: Run Build Command
               working-directory: ./Frontend
