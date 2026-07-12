@@ -17,11 +17,11 @@ jobs:
             - uses: actions/checkout@v3
 
             - name: Install Dependencies
-              working-directory: ./frontend
+              working-directory: ./Frontend
               run: npm install
 
             - name: Run Build Command
-              working-directory: ./frontend
+              working-directory: ./Frontend
               run: npm run build
 
     Tetsing_Backend: 
@@ -35,11 +35,11 @@ jobs:
             - uses: actions/checkout@v3
 
             - name: Install Dependencies
-              working-directory: ./backend
+              working-directory: ./Backend
               run: pip install -r requirements.txt
 
             - name: Run Command
-              working-directory: ./backend
+              working-directory: ./Backend
               run: uvicorn main:app & sleep 5
 
 
