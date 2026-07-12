@@ -41,7 +41,8 @@ jobs:
             - name: Run Command
               working-directory: ./Backend
               env: 
-                DATABASE_URL: ${{ secrets.DATABASE_URL }} 
+                DATABASE_URL: 'postgresql://postgres:1209@localhost:5432/pc_optimizer'
+
               run: uvicorn main:app & sleep 5
 
 
