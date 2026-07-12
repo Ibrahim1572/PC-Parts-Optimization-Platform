@@ -22,7 +22,7 @@ jobs:
 
             - name: Run Build Command
               working-directory: ./Frontend
-              run: npm run build
+              run: npx vite build
 
     Tetsing_Backend: 
 
