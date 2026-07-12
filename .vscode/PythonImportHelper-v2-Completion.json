@@ -1,0 +1,969 @@
+[
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "database",
+        "description": "database",
+        "isExtraImport": true,
+        "detail": "database",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "models",
+        "description": "models",
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "CPU",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "GPU",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "GPU",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "CPU",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "GPU",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "CPU",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "CPU",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "GPU",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "GPU",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "GPU",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "CPU",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "CPUSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "GPUSchema",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "RecommendResponse",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "HealthResponse",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "StatsResponse",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ComboResult",
+        "importPath": "schemas",
+        "description": "schemas",
+        "isExtraImport": true,
+        "detail": "schemas",
+        "documentation": {}
+    },
+    {
+        "label": "or_",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Numeric",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "TIMESTAMP",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "gpus",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "cpus",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "get_recommendations",
+        "importPath": "services.recommender",
+        "description": "services.recommender",
+        "isExtraImport": true,
+        "detail": "services.recommender",
+        "documentation": {}
+    },
+    {
+        "label": "func",
+        "importPath": "sqlalchemy.sql",
+        "description": "sqlalchemy.sql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.sql",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Decimal",
+        "importPath": "decimal",
+        "description": "decimal",
+        "isExtraImport": true,
+        "detail": "decimal",
+        "documentation": {}
+    },
+    {
+        "label": "list_cpus",
+        "kind": 2,
+        "importPath": "Backend.routers.cpus",
+        "description": "Backend.routers.cpus",
+        "peekOfCode": "def list_cpus(\n    socket: Optional[str] = Query(None),\n    max_price: Optional[float] = Query(None),\n    min_cores: Optional[int] = Query(None),\n    category: Optional[str] = Query(\"Desktop\"),\n    db: Session = Depends(get_db),\n):\n    query = db.query(CPU)\n    if category:\n        query = query.filter(CPU.category == category)",
+        "detail": "Backend.routers.cpus",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "Backend.routers.cpus",
+        "description": "Backend.routers.cpus",
+        "peekOfCode": "router = APIRouter(prefix=\"/cpus\", tags=[\"CPUs\"])\n@router.get(\"/\", response_model=list[CPUSchema])\ndef list_cpus(\n    socket: Optional[str] = Query(None),\n    max_price: Optional[float] = Query(None),\n    min_cores: Optional[int] = Query(None),\n    category: Optional[str] = Query(\"Desktop\"),\n    db: Session = Depends(get_db),\n):\n    query = db.query(CPU)",
+        "detail": "Backend.routers.cpus",
+        "documentation": {}
+    },
+    {
+        "label": "list_gpus",
+        "kind": 2,
+        "importPath": "Backend.routers.gpus",
+        "description": "Backend.routers.gpus",
+        "peekOfCode": "def list_gpus(\n    manufacturer: Optional[str] = Query(None),\n    max_price: Optional[float] = Query(None),\n    min_mem_size: Optional[int] = Query(None),\n    db: Session = Depends(get_db),\n):\n    query = db.query(GPU)\n    if manufacturer:\n        query = query.filter(GPU.manufacturer.ilike(f\"%{manufacturer}%\"))\n    if max_price is not None:",
+        "detail": "Backend.routers.gpus",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "Backend.routers.gpus",
+        "description": "Backend.routers.gpus",
+        "peekOfCode": "router = APIRouter(prefix=\"/gpus\", tags=[\"GPUs\"])\n@router.get(\"/\", response_model=list[GPUSchema])\ndef list_gpus(\n    manufacturer: Optional[str] = Query(None),\n    max_price: Optional[float] = Query(None),\n    min_mem_size: Optional[int] = Query(None),\n    db: Session = Depends(get_db),\n):\n    query = db.query(GPU)\n    if manufacturer:",
+        "detail": "Backend.routers.gpus",
+        "documentation": {}
+    },
+    {
+        "label": "get_recommendations",
+        "kind": 2,
+        "importPath": "Backend.services.recommender",
+        "description": "Backend.services.recommender",
+        "peekOfCode": "def get_recommendations(\n    db: Session,\n    budget_usd: float,\n    use_case: str,\n    gpu_budget_split: float = 0.6,\n    top_n: int = 3,\n) -> list:\n    if use_case not in USE_CASE_CONFIG:\n        raise ValueError(f\"Invalid use_case. Choose from: {list(USE_CASE_CONFIG)}\")\n    config = USE_CASE_CONFIG[use_case]",
+        "detail": "Backend.services.recommender",
+        "documentation": {}
+    },
+    {
+        "label": "USE_CASE_CONFIG",
+        "kind": 5,
+        "importPath": "Backend.services.recommender",
+        "description": "Backend.services.recommender",
+        "peekOfCode": "USE_CASE_CONFIG = {\n    \"gaming_1080p\": {\n        \"gpu_weight\": 0.65,\n        \"cpu_weight\": 0.35,\n        \"gpu_score_field\": \"gaming_1080p_score\",\n        \"cpu_score_field\": \"thread_mark\",\n        \"reason_template\": (\n            \"{gpu_name} ({shaders} shaders, {mem}MB VRAM) paired with \"\n            \"{cpu_name} ({thread_mark} thread mark) — optimized for 1080p gaming.\"\n        ),",
+        "detail": "Backend.services.recommender",
+        "documentation": {}
+    },
+    {
+        "label": "GPU_PREFIXES",
+        "kind": 5,
+        "importPath": "Backend.services.recommender",
+        "description": "Backend.services.recommender",
+        "peekOfCode": "GPU_PREFIXES = (\n    \"GeForce RTX\",\n    \"GeForce GTX\",\n    \"TITAN\",\n    \"Radeon RX\",\n    \"Radeon VII\",\n    \"Intel Arc\",\n)\n# ---------------------------------------------------------------------------\n# Valid CPU sockets",
+        "detail": "Backend.services.recommender",
+        "documentation": {}
+    },
+    {
+        "label": "CPU_SOCKETS",
+        "kind": 5,
+        "importPath": "Backend.services.recommender",
+        "description": "Backend.services.recommender",
+        "peekOfCode": "CPU_SOCKETS = (\n    \"AM4\",\n    \"FCLGA1151-2\",\n    \"FCLGA1700\",\n    \"LGA 1700\",\n    \"FCLGA1200\",\n)\n# ---------------------------------------------------------------------------\n# Valid CPU test dates\n# ---------------------------------------------------------------------------",
+        "detail": "Backend.services.recommender",
+        "documentation": {}
+    },
+    {
+        "label": "CPU_DATES",
+        "kind": 5,
+        "importPath": "Backend.services.recommender",
+        "description": "Backend.services.recommender",
+        "peekOfCode": "CPU_DATES = (\"2018\", \"2019\", \"2020\", \"2021\", \"2022\")\n# ---------------------------------------------------------------------------\n# Normalizer — min-max scale to [0, 1]\n# ---------------------------------------------------------------------------\ndef _normalize(values: list) -> list:\n    clean = [v if v is not None else 0.0 for v in values]\n    lo, hi = min(clean), max(clean)\n    if hi == lo:\n        return [0.5] * len(clean)\n    return [(v - lo) / (hi - lo) for v in clean]",
+        "detail": "Backend.services.recommender",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "Backend.database",
+        "description": "Backend.database",
+        "peekOfCode": "def get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "Backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_URL",
+        "kind": 5,
+        "importPath": "Backend.database",
+        "description": "Backend.database",
+        "peekOfCode": "DATABASE_URL = os.getenv(\"DATABASE_URL\")\nif not DATABASE_URL:\n    raise RuntimeError(\"DATABASE_URL not set in .env\")\nengine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db",
+        "detail": "Backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "Backend.database",
+        "description": "Backend.database",
+        "peekOfCode": "engine = create_engine(DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "Backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "Backend.database",
+        "description": "Backend.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "Backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "Backend.database",
+        "description": "Backend.database",
+        "peekOfCode": "Base = declarative_base()\ndef get_db():\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "Backend.database",
+        "documentation": {}
+    },
+    {
+        "label": "clean_int",
+        "kind": 2,
+        "importPath": "Backend.data_loader",
+        "description": "Backend.data_loader",
+        "peekOfCode": "def clean_int(val):\n    try:\n        v = float(str(val).strip())\n        return int(v) if not pd.isna(v) else None\n    except (ValueError, TypeError):\n        return None\ndef clean_float(val):\n    try:\n        v = float(str(val).strip())\n        return v if not pd.isna(v) else None",
+        "detail": "Backend.data_loader",
+        "documentation": {}
+    },
+    {
+        "label": "clean_float",
+        "kind": 2,
+        "importPath": "Backend.data_loader",
+        "description": "Backend.data_loader",
+        "peekOfCode": "def clean_float(val):\n    try:\n        v = float(str(val).strip())\n        return v if not pd.isna(v) else None\n    except (ValueError, TypeError):\n        return None\ndef clean_str(val):\n    if pd.isna(val):\n        return None\n    return str(val).strip() or None",
+        "detail": "Backend.data_loader",
+        "documentation": {}
+    },
+    {
+        "label": "clean_str",
+        "kind": 2,
+        "importPath": "Backend.data_loader",
+        "description": "Backend.data_loader",
+        "peekOfCode": "def clean_str(val):\n    if pd.isna(val):\n        return None\n    return str(val).strip() or None\ndef clean_bool(val):\n    if pd.isna(val):\n        return False\n    return str(val).strip().lower() in (\"yes\", \"1\", \"true\")\n# ---------------------------------------------------------------------------\n# Load GPUs",
+        "detail": "Backend.data_loader",
+        "documentation": {}
+    },
+    {
+        "label": "clean_bool",
+        "kind": 2,
+        "importPath": "Backend.data_loader",
+        "description": "Backend.data_loader",
+        "peekOfCode": "def clean_bool(val):\n    if pd.isna(val):\n        return False\n    return str(val).strip().lower() in (\"yes\", \"1\", \"true\")\n# ---------------------------------------------------------------------------\n# Load GPUs\n# ---------------------------------------------------------------------------\ndef load_gpus(db):\n    df = pd.read_csv(GPU_CSV)\n    df = df.drop_duplicates(subset=[\"productName\"], keep=\"first\")",
+        "detail": "Backend.data_loader",
+        "documentation": {}
+    },
+    {
+        "label": "load_gpus",
+        "kind": 2,
+        "importPath": "Backend.data_loader",
+        "description": "Backend.data_loader",
+        "peekOfCode": "def load_gpus(db):\n    df = pd.read_csv(GPU_CSV)\n    df = df.drop_duplicates(subset=[\"productName\"], keep=\"first\")\n    print(f\"  GPU CSV rows: {len(df)}\")\n    loaded = 0\n    skipped = 0\n    for _, row in df.iterrows():\n        product_name = clean_str(row.get(\"productName\"))\n        if not product_name:\n            skipped += 1",
+        "detail": "Backend.data_loader",
+        "documentation": {}
+    },
+    {
+        "label": "load_cpus",
+        "kind": 2,
+        "importPath": "Backend.data_loader",
+        "description": "Backend.data_loader",
+        "peekOfCode": "def load_cpus(db):\n    df = pd.read_csv(CPU_CSV)\n    df = df.drop_duplicates(subset=[\"cpuName\"], keep=\"first\")\n    print(f\"  CPU CSV rows: {len(df)}\")\n    loaded = 0\n    skipped = 0\n    for _, row in df.iterrows():\n        cpu_name = clean_str(row.get(\"cpuName\"))\n        if not cpu_name:\n            skipped += 1",
+        "detail": "Backend.data_loader",
+        "documentation": {}
+    },
+    {
+        "label": "GPU_CSV",
+        "kind": 5,
+        "importPath": "Backend.data_loader",
+        "description": "Backend.data_loader",
+        "peekOfCode": "GPU_CSV = os.path.join(os.path.dirname(__file__), \"data\", \"gpu_data.csv\")\nCPU_CSV = os.path.join(os.path.dirname(__file__), \"data\", \"cpu_data.csv\")\n# ---------------------------------------------------------------------------\n# Cleaners\n# ---------------------------------------------------------------------------\ndef clean_int(val):\n    try:\n        v = float(str(val).strip())\n        return int(v) if not pd.isna(v) else None\n    except (ValueError, TypeError):",
+        "detail": "Backend.data_loader",
+        "documentation": {}
+    },
+    {
+        "label": "CPU_CSV",
+        "kind": 5,
+        "importPath": "Backend.data_loader",
+        "description": "Backend.data_loader",
+        "peekOfCode": "CPU_CSV = os.path.join(os.path.dirname(__file__), \"data\", \"cpu_data.csv\")\n# ---------------------------------------------------------------------------\n# Cleaners\n# ---------------------------------------------------------------------------\ndef clean_int(val):\n    try:\n        v = float(str(val).strip())\n        return int(v) if not pd.isna(v) else None\n    except (ValueError, TypeError):\n        return None",
+        "detail": "Backend.data_loader",
+        "documentation": {}
+    },
+    {
+        "label": "clean_float",
+        "kind": 2,
+        "importPath": "Backend.data_loader_cpu_price",
+        "description": "Backend.data_loader_cpu_price",
+        "peekOfCode": "def clean_float(val):\n    try:\n        v = float(str(val).strip().replace(\",\", \"\"))\n        return v if not pd.isna(v) else None\n    except (ValueError, TypeError):\n        return None\ndef load_cpu_prices(db):\n    df = pd.read_csv(PRICE_CSV)\n    print(f\"  Price CSV rows: {len(df)}\")\n    updated = 0",
+        "detail": "Backend.data_loader_cpu_price",
+        "documentation": {}
+    },
+    {
+        "label": "load_cpu_prices",
+        "kind": 2,
+        "importPath": "Backend.data_loader_cpu_price",
+        "description": "Backend.data_loader_cpu_price",
+        "peekOfCode": "def load_cpu_prices(db):\n    df = pd.read_csv(PRICE_CSV)\n    print(f\"  Price CSV rows: {len(df)}\")\n    updated = 0\n    not_found = 0\n    for _, row in df.iterrows():\n        cpu_name = str(row.get(\"cpu_name\", \"\")).strip()\n        if not cpu_name:\n            continue\n        cpu = db.query(CPU).filter(CPU.cpu_name == cpu_name).first()",
+        "detail": "Backend.data_loader_cpu_price",
+        "documentation": {}
+    },
+    {
+        "label": "PRICE_CSV",
+        "kind": 5,
+        "importPath": "Backend.data_loader_cpu_price",
+        "description": "Backend.data_loader_cpu_price",
+        "peekOfCode": "PRICE_CSV = os.path.join(os.path.dirname(__file__), \"data\", \"cpu_price.csv\")\ndef clean_float(val):\n    try:\n        v = float(str(val).strip().replace(\",\", \"\"))\n        return v if not pd.isna(v) else None\n    except (ValueError, TypeError):\n        return None\ndef load_cpu_prices(db):\n    df = pd.read_csv(PRICE_CSV)\n    print(f\"  Price CSV rows: {len(df)}\")",
+        "detail": "Backend.data_loader_cpu_price",
+        "documentation": {}
+    },
+    {
+        "label": "clean_float",
+        "kind": 2,
+        "importPath": "Backend.data_loader_gpu_price",
+        "description": "Backend.data_loader_gpu_price",
+        "peekOfCode": "def clean_float(val):\n    try:\n        v = float(str(val).strip().replace(\",\", \"\"))\n        return v if not pd.isna(v) else None\n    except (ValueError, TypeError):\n        return None\ndef load_gpu_prices(db):\n    df = pd.read_csv(PRICE_CSV)\n    print(f\"  Price CSV rows: {len(df)}\")\n    updated = 0",
+        "detail": "Backend.data_loader_gpu_price",
+        "documentation": {}
+    },
+    {
+        "label": "load_gpu_prices",
+        "kind": 2,
+        "importPath": "Backend.data_loader_gpu_price",
+        "description": "Backend.data_loader_gpu_price",
+        "peekOfCode": "def load_gpu_prices(db):\n    df = pd.read_csv(PRICE_CSV)\n    print(f\"  Price CSV rows: {len(df)}\")\n    updated = 0\n    not_found = 0\n    for _, row in df.iterrows():\n        gpu_name = str(row.get(\"GPU Name\", \"\")).strip()\n        if not gpu_name:\n            continue\n        gpu = db.query(GPU).filter(GPU.product_name == gpu_name).first()",
+        "detail": "Backend.data_loader_gpu_price",
+        "documentation": {}
+    },
+    {
+        "label": "PRICE_CSV",
+        "kind": 5,
+        "importPath": "Backend.data_loader_gpu_price",
+        "description": "Backend.data_loader_gpu_price",
+        "peekOfCode": "PRICE_CSV = os.path.join(os.path.dirname(__file__), \"data\", \"gpu_price.csv\")\ndef clean_float(val):\n    try:\n        v = float(str(val).strip().replace(\",\", \"\"))\n        return v if not pd.isna(v) else None\n    except (ValueError, TypeError):\n        return None\ndef load_gpu_prices(db):\n    df = pd.read_csv(PRICE_CSV)\n    print(f\"  Price CSV rows: {len(df)}\")",
+        "detail": "Backend.data_loader_gpu_price",
+        "documentation": {}
+    },
+    {
+        "label": "clean_int",
+        "kind": 2,
+        "importPath": "Backend.data_loader_performance",
+        "description": "Backend.data_loader_performance",
+        "peekOfCode": "def clean_int(val):\n    try:\n        v = float(str(val).strip())\n        return int(v) if not pd.isna(v) else None\n    except (ValueError, TypeError):\n        return None\ndef load_scores(db):\n    df = pd.read_csv(SCORE_CSV)\n    print(f\"  Score CSV rows: {len(df)}\")\n    updated = 0",
+        "detail": "Backend.data_loader_performance",
+        "documentation": {}
+    },
+    {
+        "label": "load_scores",
+        "kind": 2,
+        "importPath": "Backend.data_loader_performance",
+        "description": "Backend.data_loader_performance",
+        "peekOfCode": "def load_scores(db):\n    df = pd.read_csv(SCORE_CSV)\n    print(f\"  Score CSV rows: {len(df)}\")\n    updated = 0\n    not_found = 0\n    for _, row in df.iterrows():\n        gpu_name = str(row.get(\"gpu_name\", \"\")).strip()\n        if not gpu_name:\n            continue\n        gpu = db.query(GPU).filter(GPU.product_name == gpu_name).first()",
+        "detail": "Backend.data_loader_performance",
+        "documentation": {}
+    },
+    {
+        "label": "SCORE_CSV",
+        "kind": 5,
+        "importPath": "Backend.data_loader_performance",
+        "description": "Backend.data_loader_performance",
+        "peekOfCode": "SCORE_CSV = os.path.join(os.path.dirname(__file__), \"data\", \"gpu_performance_data.csv\")\ndef clean_int(val):\n    try:\n        v = float(str(val).strip())\n        return int(v) if not pd.isna(v) else None\n    except (ValueError, TypeError):\n        return None\ndef load_scores(db):\n    df = pd.read_csv(SCORE_CSV)\n    print(f\"  Score CSV rows: {len(df)}\")",
+        "detail": "Backend.data_loader_performance",
+        "documentation": {}
+    },
+    {
+        "label": "health",
+        "kind": 2,
+        "importPath": "Backend.main",
+        "description": "Backend.main",
+        "peekOfCode": "def health():\n    return {\"status\": \"ok\"}\n@app.get(\"/datasets/stats\", response_model=StatsResponse, tags=[\"Meta\"])\ndef dataset_stats(db: Session = Depends(get_db)):\n    return {\n        \"total_gpus\": db.query(GPU).count(),\n        \"total_cpus\": db.query(CPU).count(),\n    }\n@app.get(\"/recommend\", response_model=RecommendResponse, tags=[\"Recommendations\"])\ndef recommend(",
+        "detail": "Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "dataset_stats",
+        "kind": 2,
+        "importPath": "Backend.main",
+        "description": "Backend.main",
+        "peekOfCode": "def dataset_stats(db: Session = Depends(get_db)):\n    return {\n        \"total_gpus\": db.query(GPU).count(),\n        \"total_cpus\": db.query(CPU).count(),\n    }\n@app.get(\"/recommend\", response_model=RecommendResponse, tags=[\"Recommendations\"])\ndef recommend(\n    budget_usd: float = Query(..., gt=0, description=\"Total budget in USD\"),\n    use_case: Literal[\n        \"gaming_1080p\", \"gaming_1440p\", \"gaming_4k\", \"ml_compute\", \"general\"",
+        "detail": "Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "recommend",
+        "kind": 2,
+        "importPath": "Backend.main",
+        "description": "Backend.main",
+        "peekOfCode": "def recommend(\n    budget_usd: float = Query(..., gt=0, description=\"Total budget in USD\"),\n    use_case: Literal[\n        \"gaming_1080p\", \"gaming_1440p\", \"gaming_4k\", \"ml_compute\", \"general\"\n    ] = Query(...),\n    gpu_budget_split: float = Query(0.6, ge=0.0, le=1.0),\n    db: Session = Depends(get_db),\n):\n    results = get_recommendations(\n        db=db,",
+        "detail": "Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Backend.main",
+        "description": "Backend.main",
+        "peekOfCode": "app = FastAPI(\n    title=\"PC Build Optimizer API\",\n    description=\"Budget-aware GPU + CPU combo recommendations.\",\n    version=\"1.0.0\",\n)\n# ---------------------------------------------------------------------------\n# CORS\n# ---------------------------------------------------------------------------\napp.add_middleware(\n    CORSMiddleware,",
+        "detail": "Backend.main",
+        "documentation": {}
+    },
+    {
+        "label": "GPU",
+        "kind": 6,
+        "importPath": "Backend.models",
+        "description": "Backend.models",
+        "peekOfCode": "class GPU(Base):\n    __tablename__ = \"gpus\"\n    id = Column(Integer, primary_key=True, index=True)\n    manufacturer = Column(String(100))\n    product_name = Column(String(255), nullable=False, unique=True)\n    release_year = Column(Integer)\n    mem_size_mb = Column(Integer)\n    mem_bus_width = Column(Integer)\n    gpu_clock_mhz = Column(Integer)\n    mem_clock_mhz = Column(Integer)",
+        "detail": "Backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "CPU",
+        "kind": 6,
+        "importPath": "Backend.models",
+        "description": "Backend.models",
+        "peekOfCode": "class CPU(Base):\n    __tablename__ = \"cpus\"\n    id = Column(Integer, primary_key=True, index=True)\n    cpu_name = Column(String(255), nullable=False, unique=True)\n    price = Column(Numeric(10, 2))\n    cpu_mark = Column(Integer)\n    cpu_value = Column(Numeric(10, 4))\n    thread_mark = Column(Integer)\n    thread_value = Column(Numeric(10, 4))\n    tdp_watts = Column(Integer)",
+        "detail": "Backend.models",
+        "documentation": {}
+    },
+    {
+        "label": "GPUSchema",
+        "kind": 6,
+        "importPath": "Backend.schemas",
+        "description": "Backend.schemas",
+        "peekOfCode": "class GPUSchema(BaseModel):\n    id: int\n    manufacturer: Optional[str] = None\n    product_name: str\n    release_year: Optional[int] = None\n    mem_size_mb: Optional[int] = None\n    mem_bus_width: Optional[int] = None\n    gpu_clock_mhz: Optional[int] = None\n    mem_clock_mhz: Optional[int] = None\n    unified_shaders: Optional[int] = None",
+        "detail": "Backend.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "CPUSchema",
+        "kind": 6,
+        "importPath": "Backend.schemas",
+        "description": "Backend.schemas",
+        "peekOfCode": "class CPUSchema(BaseModel):\n    id: int\n    cpu_name: str\n    price: Optional[Decimal] = None\n    cpu_mark: Optional[int] = None\n    cpu_value: Optional[Decimal] = None\n    thread_mark: Optional[int] = None\n    thread_value: Optional[Decimal] = None\n    tdp_watts: Optional[int] = None\n    power_perf: Optional[Decimal] = None",
+        "detail": "Backend.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "ComboResult",
+        "kind": 6,
+        "importPath": "Backend.schemas",
+        "description": "Backend.schemas",
+        "peekOfCode": "class ComboResult(BaseModel):\n    gpu: GPUSchema\n    cpu: CPUSchema\n    total_price: Optional[Decimal] = None\n    combo_score: float\n    reason: str\n    gpu_budget: float\n    cpu_budget: float\nclass RecommendResponse(BaseModel):\n    use_case: str",
+        "detail": "Backend.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "RecommendResponse",
+        "kind": 6,
+        "importPath": "Backend.schemas",
+        "description": "Backend.schemas",
+        "peekOfCode": "class RecommendResponse(BaseModel):\n    use_case: str\n    budget_usd: float\n    gpu_budget_split: float\n    results: list[ComboResult]\nclass HealthResponse(BaseModel):\n    status: str\nclass StatsResponse(BaseModel):\n    total_gpus: int\n    total_cpus: int",
+        "detail": "Backend.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "HealthResponse",
+        "kind": 6,
+        "importPath": "Backend.schemas",
+        "description": "Backend.schemas",
+        "peekOfCode": "class HealthResponse(BaseModel):\n    status: str\nclass StatsResponse(BaseModel):\n    total_gpus: int\n    total_cpus: int",
+        "detail": "Backend.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "StatsResponse",
+        "kind": 6,
+        "importPath": "Backend.schemas",
+        "description": "Backend.schemas",
+        "peekOfCode": "class StatsResponse(BaseModel):\n    total_gpus: int\n    total_cpus: int",
+        "detail": "Backend.schemas",
+        "documentation": {}
+    }
+]
