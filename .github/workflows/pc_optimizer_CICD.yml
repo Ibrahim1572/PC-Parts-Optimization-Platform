@@ -16,6 +16,15 @@ jobs:
         steps: 
             - uses: actions/checkout@v3
 
+            - name: Setup Node
+              uses: actions/setup-node@v4
+              with:
+                node-version: 20
+
+            - name: Fix permissions
+              working-directory: ./Frontend
+              run: chmod -R +x node_modules/.bin || true
+            
             - name: Install Dependencies
               working-directory: ./Frontend
               run: npm install
