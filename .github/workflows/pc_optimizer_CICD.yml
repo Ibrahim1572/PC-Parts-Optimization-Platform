@@ -40,6 +40,8 @@ jobs:
 
             - name: Run Command
               working-directory: ./Backend
+              env: 
+                DATABASE_URL: ${{ secrets.DATABASE_URL }} 
               run: uvicorn main:app & sleep 5
 
 
